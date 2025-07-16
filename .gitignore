@@ -29,5 +29,4 @@ coverage
 
 *.tsbuildinfo
 
-# Ignore Dockerfile
-Dockerfile
+# Ignore D
