@@ -17,12 +17,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd frontend
           npm install
 
       - name: Run tests
         run: |
-          cd frontend
           npm run test
 
       - name: Set up QEMU
